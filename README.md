@@ -80,4 +80,6 @@ A Spleefgame. Knock the other players into the dark and win.
 
 ### MineLife Zones
 Shows the players where they are in the screen border.
+
+Based on: [minetest_buildingfarming_zone](https://github.com/Jean28518/minetest_buildingfarming_zone) (Developed at the time for MineLife)
 - dependencies = default
