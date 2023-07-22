@@ -1,0 +1,7 @@
+{
+    "Lua.diagnostics.globals": [
+        "minelife_server_tools",
+        "minetest",
+        "licenses_check_player_by_licese"
+    ]
+}

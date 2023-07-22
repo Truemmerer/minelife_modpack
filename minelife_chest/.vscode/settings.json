@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "areas",
+        "minetest",
+        "jeans_economy",
+        "jeans_economy_change_account"
+    ]
+}
